@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#introduction">Introduction</a> |
   <a href="#results">Results</a> |
+  <a href="#statement">Statement</a> |
   <a href="#relevant projects">Relevant Projects</a>
 </p>
 <figure>
