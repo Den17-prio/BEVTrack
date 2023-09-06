@@ -1,6 +1,6 @@
 <h1 align="center">BEVTrack: A Simple Baseline for Point Cloud Tracking in Bird’s-Eye-View</h1>
 <p align="center">
-<a href="https://arxiv.org/abs/"><img  src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></a>
+<a href="https://arxiv.org/abs/2309.02185"><img  src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></a>
 <h5 align="center"><em>Yuxiang Yang, Yingqi Deng, Jiahao Nie, Jing Zhang</em></h5>
 <p align="center">
   <a href="#introduction">Introduction</a> |
@@ -32,10 +32,16 @@
 <p align="justify">If you are interested in our work, please consider citing the following:</p>
 
 ```
-@article{}
+@misc{2309.02185,
+Author = {Yuxiang Yang and Yingqi Deng and Jiahao Nie and Jing Zhang},
+Title = {BEVTrack: A Simple Baseline for Point Cloud Tracking in Bird's-Eye-View},
+Year = {2023},
+Eprint = {arXiv:2309.02185},
+}
 ```
 <p align="justify">This project is under MIT licence.</p>
 
 ## Relevant Projects
 
 [1] <strong>GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds, AAAI, 2023</strong> | [Paper](https://arxiv.org/abs/2211.10927) | [Github](https://github.com/haooozi/GLT-T) <br><em>&ensp; &ensp; &ensp;Jiahao Nie<sup>&#8727;</sup>, Zhiwei He<sup>&#8727;</sup>, Yuxiang Yang, Mingyu Gao, Jing Zhang</em>
+[2] <strong>OSP2B: One-Stage Point-to-Box Network for 3D Siamese Tracking, IJCAI, 2023</strong> | [Paper](https://arxiv.org/abs/2304.11584) | [Github](https://github.com/haooozi/OSP2B) <br><em>&ensp; &ensp; &ensp;Jiahao Nie<sup>&#8727;</sup>, Zhiwei He<sup>&#8727;</sup>, Yuxiang Yang, Zhengyi Bao, Mingyu Gao, Jing Zhang</em>
