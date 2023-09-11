@@ -1,4 +1,4 @@
-<h1 align="center">BEVTrack: A Simple Baseline for Point Cloud Tracking in Bird’s-Eye-View</h1>
+<h1 align="center">BEVTrack: A Simple Baseline for 3D single objet Tracking in Bird’s-Eye-View</h1>
 <p align="center">
 <a href="https://arxiv.org/abs/2309.02185"><img  src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></a>
 <h5 align="center"><em>Yuxiang Yang, Yingqi Deng, Jiahao Nie, Jing Zhang</em></h5>
@@ -34,7 +34,7 @@
 ```
 @misc{2309.02185,
 Author = {Yuxiang Yang and Yingqi Deng and Jiahao Nie and Jing Zhang},
-Title = {BEVTrack: A Simple Baseline for Point Cloud Tracking in Bird's-Eye-View},
+Title = {BEVTrack: A Simple Baseline for 3D single object Tracking in Bird's-Eye-View},
 Year = {2023},
 Eprint = {arXiv:2309.02185},
 }
